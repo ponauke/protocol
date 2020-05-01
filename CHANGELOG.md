@@ -2,6 +2,7 @@
 
 ## Features
 
+* **css:** Add button container and alignment options (#580)
 * **tokens:** update @mozilla-protocol/tokens to 5.0.5
 * **css:** Tweak form error styles (#508)
 * **css:** (breaking) Add styled text inputs (#430)
