@@ -3,6 +3,7 @@
 ## Features
 
 * **css:** Add button container and alignment options (#580)
+* **css:** Add styled checkboxes and radio buttons (#439)
 * **tokens:** update @mozilla-protocol/tokens to 5.0.5
 * **css:** Tweak form error styles (#508)
 * **css:** (breaking) Add styled text inputs (#430)
@@ -11,6 +12,7 @@
 
 ## Bug Fixes
 
+* **css:** Switch to negative text indent for image replacement (#519)
 * **css:** Embiggen the modal close button (#557)
 * **css:** Center the notification bar in larger viewports
 * **css:** Button line-height bug fix
